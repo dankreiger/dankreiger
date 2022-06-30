@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dankreiger
+Hi, I’m @dankreiger
 
 <!---
 dankreiger/dankreiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
